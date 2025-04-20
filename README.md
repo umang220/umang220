@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm [Umang Srivastava]!
 
 🔒 **Cybersecurity Enthusiast** | 💻 BCA Student at Parul University  
 I'm a fresher diving into the world of **cybersecurity** and coding. I love exploring ethical hacking, secure coding, and building projects that make the digital world safer. Currently learning and growing through hands-on projects and open-source contributions.
@@ -15,7 +15,7 @@ I'm a fresher diving into the world of **cybersecurity** and coding. I love expl
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python, C, JavaScript (Basics)
+- **Languages**: Python, C, JavaScript (Basics), Java (basic)
 - **Cybersecurity Tools**: Wireshark, Nmap, Burp Suite, Kali Linux
 - **Other**: HTML, CSS, Git, Linux Basics
 - **Soft Skills**: Problem-solving, Teamwork, Quick Learner
@@ -32,10 +32,10 @@ I'm a fresher diving into the world of **cybersecurity** and coding. I love expl
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn URL]
-- 🐦 X: [Your X Handle]
-- 🌐 Portfolio: [Your Portfolio URL, if any]
+- 📧 Email: [umangsrivastava9638@gmail.com]
+- 🔗 LinkedIn: [www.linkedin.com/in/umangsrivastava220]
+##- 🐦 X: [Your X Handle]
+##- 🌐 Portfolio: [Your Portfolio URL, if any]
 
 ---
 
