@@ -23,10 +23,9 @@ I'm a fresher diving into the world of **cybersecurity** and coding. I love expl
 ---
 
 ## 🌟 Projects
-- **[Project Name 1]**: A Python script for network scanning using Nmap. [Link to Repo]  
-  *Learned basics of network security and automation.*
-- **[Project Name 2]**: Simple web app with login system, focusing on secure authentication. [Link to Repo]  
-  *Explored SQL injection prevention and secure coding.*
+- **[Online Clothes Store]**: A web-based e-commerce platform developed using PHP. [https://github.com/umang220/diopolswebsite]  
+  *This system provides a user-friendly interface, efficient order management, and a responsive design to ensure accessibility across multiple devices, contributing to a   
+   modern and scalable e-commerce experience.*
 - *More projects coming soon!*
 
 ---
@@ -34,8 +33,8 @@ I'm a fresher diving into the world of **cybersecurity** and coding. I love expl
 ## 📫 Connect with Me
 - 📧 Email: [umangsrivastava9638@gmail.com]
 - 🔗 LinkedIn: [www.linkedin.com/in/umangsrivastava220]
-##- 🐦 X: [Your X Handle]
-##- 🌐 Portfolio: [Your Portfolio URL, if any]
+- 🐦 X: [https://x.com/umang9638]
+- 🌐 Portfolio: [Your Portfolio URL, if any]
 
 ---
 
