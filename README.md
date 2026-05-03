@@ -31,6 +31,19 @@ I'm a fresher diving into the world of **cybersecurity** and coding. I love expl
 
 ---
 
+## 🎓 Certifications 🧾
+
+[✔] ISC2 CC - Certified in Cybersecurity  
+↳ 🔗 [View Certificate](https://your-link.com)
+
+[✔] Cisco - Introduction to Cybersecurity  
+↳ 🔗 [View Certificate](https://your-link.com)
+
+[✔] HackerRank - Python Basics  
+↳ 🔗 [View Certificate](https://your-link.com)
+
+---
+
 ## 📫 Connect with Me
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:umangsrivastava9638@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/umangsrivastava220)
