@@ -47,9 +47,8 @@ I'm a fresher diving into the world of **cybersecurity** and coding. I love expl
 ## 📫 Connect with Me
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:umangsrivastava9638@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/umangsrivastava220)
-- 🐦 X: [https://x.com/umang9638]
-- 🌐 Portfolio: [Your Portfolio URL, if any]
-
+- [![X](https://img.shields.io/badge/X-@umang9638-green?logo=x&logoColor=white)](https://x.com/umang9638)
+  
 ---
 
 ## ⚡ Fun Fact
