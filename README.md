@@ -1,4 +1,4 @@
-![SOC](https://img.shields.io/badge/SOC-Threat_Analysis-0066CC)  ![SIEM](https://img.shields.io/badge/SIEM-Wazuh%2FSplunk-28A745)         
+![SOC](https://img.shields.io/badge/SOC-Threat_Analysis-0066CC)  [![SIEM](https://img.shields.io/badge/SIEM-Splunk-28A745)](https://www.splunk.com/)         
   
 # 👋 Hey, I'm [Umang Srivastava]!
 🔒 **Cybersecurity Enthusiast** | 💻 BCA Student at Parul University  
