@@ -1,5 +1,6 @@
+![SOC](https://img.shields.io/badge/SOC-Threat_Analysis-0066CC)  ![SIEM](https://img.shields.io/badge/SIEM-Wazuh%2FSplunk-28A745)         
+  
 # 👋 Hey, I'm [Umang Srivastava]!
-
 🔒 **Cybersecurity Enthusiast** | 💻 BCA Student at Parul University  
 I'm a fresher diving into the world of **cybersecurity** and coding. I love exploring ethical hacking, secure coding, and building projects that make the digital world safer. Currently learning and growing through hands-on projects and open-source contributions.
 
